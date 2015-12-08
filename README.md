@@ -12,9 +12,9 @@
 		<h1>Bienvenue sur notre site de vente en ligne</h1>
 		<nav>
 			<ul>
+				<li><a href="#">Nos produits</a></li>
 				<li><a href="#">mettre des onglets</a></li>
-				<li><a href="#">mettre des onglets</a></li>
-				<li><a href="#">mettre des onglets</a></li>
+				<li><a href="#">Qui sommes nous</a></li>
 			</ul>
 		</nav>
 	</header>
